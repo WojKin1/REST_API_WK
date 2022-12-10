@@ -21,7 +21,7 @@ class CustomerController extends Controller
         return Customer::all();
     }
 
-    /**
+    /***
      * Show the form for creating a new resource.
      *
      * @return \Illuminate\Http\Response
